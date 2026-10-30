@@ -19,7 +19,7 @@ This shader combines two noise textures that are sampled with two sets of scroll
 ## General textures
 ![screenshot](tex.png)
 
-This versatile texture application shader is great for general use. It has many adjustable fields such as metallic, smoothness, color, and tiling scale and offset. These allow it to be applied to many different objects, meeting each of their needs to replicate different materials.
+This versatile texture application shader is great for general use. It has many adjustable fields such as metallic, smoothness, color, and tiling scale and offset. These allow it to be applied to many different objects, meeting each of their needs to replicate different materials. The easily adjustable tiling is great for making sure that the texture is scaled properly for different sized objects, such as the differently sized islands in battletoads.
 
 ## Changing lighting model
 ![img.png](wrap.png)
