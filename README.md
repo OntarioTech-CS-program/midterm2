@@ -15,3 +15,13 @@ This lava shader has a scrolling noise texture, and also has a vertical vertex o
 ![screenshot](fire.png)
 
 This shader combines two noise textures that are sampled with two sets of scrolling UVs with different time scales. Not only is each noise texture at a different time scale, but they're also sampled at different noise scales, creating even more depth in this layered effect. The depth that this gives makes the shader appear much more like a real flickering flame.
+
+## General textures
+![screenshot](tex.png)
+
+This versatile texture application shader is great for general use. It has many adjustable fields such as metallic, smoothness, color, and tiling scale and offset. These allow it to be applied to many different objects, meeting each of their needs to replicate different materials.
+
+## Changing lighting model
+![img.png](wrap.png)
+
+This shader alternates between simple diffuse and wrap diffuse. For this demonstration, I have tweened the wrap coefficient so you can see the change easily. This is a perfect choice for this game, because different environments that the player enters will need different diffuse lighting. When in a fiery environment with lots of light coming from different angles, a high wrap coefficient is a great choice to show all that extra light wrapping around objects or players. When in an environment with light from only one direction, disabling diffuse wrapping fits the game better.
