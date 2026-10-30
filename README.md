@@ -25,3 +25,8 @@ This versatile texture application shader is great for general use. It has many 
 ![img.png](wrap.png)
 
 This shader alternates between simple diffuse and wrap diffuse. For this demonstration, I have tweened the wrap coefficient so you can see the change easily. This is a perfect choice for this game, because different environments that the player enters will need different diffuse lighting. When in a fiery environment with lots of light coming from different angles, a high wrap coefficient is a great choice to show all that extra light wrapping around objects or players. When in an environment with light from only one direction, disabling diffuse wrapping fits the game better.
+
+## My choice
+![img.png](choice.png)
+
+My shader of choice is one that pulses the emmission property of a material over time. This pulsing light effect is perfect for the glowing lights on the hoverboard that the battletoads stand on, and it makes the machine they ride appear even more technologically advanced.
