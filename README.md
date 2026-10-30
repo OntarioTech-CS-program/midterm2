@@ -29,4 +29,4 @@ This shader alternates between simple diffuse and wrap diffuse. For this demonst
 ## My choice
 ![img.png](choice.png)
 
-My shader of choice is one that pulses the emmission property of a material over time. This pulsing light effect is perfect for the glowing lights on the hoverboard that the battletoads stand on, and it makes the machine they ride appear even more technologically advanced. I also made it pulse using Sine Time, which eases the property in and out, creating a satisfying and smooth pulse that doesn't cause flickering.
+My shader of choice is one that pulses the emmission property of a material over time. This pulsing light effect is perfect for the glowing lights on the hoverboard that the battletoads stand on, and it makes the machine they ride appear even more technologically advanced. I also made it pulse using Sine Time, which eases the property in and out, because it creates a satisfying and smooth pulse that doesn't cause flickering.
