@@ -14,7 +14,7 @@ This lava shader has a scrolling noise texture, and also has a vertical vertex o
 ## Multiple UVs shader
 ![screenshot](fire.png)
 
-This shader combines two noise textures that are sampled with two sets of scrolling UVs with different time scales. Not only is each noise texture at a different time scale, but they're also sampled at different noise scales, creating even more depth in this layered effect. The depth that this gives makes the shader appear much more like a real flickering flame.
+This shader combines two noise textures that are sampled with two sets of scrolling UVs with different time scales. Not only is each noise texture at a different time scale, but they're also sampled at different noise scales, creating even more depth in this layered effect. The depth that this gives makes the shader appear much more like a real, flickering flame that you can see through.
 
 ## General textures
 ![screenshot](tex.png)
