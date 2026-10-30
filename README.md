@@ -1,2 +1,2 @@
-# midterm2
+# Make-up Midterm Assignment
 
